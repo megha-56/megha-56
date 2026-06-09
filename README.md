@@ -2,7 +2,8 @@
 
 <!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=19,20&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=e879f9"/> -->
 <!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a0080,50:9b4dca,100:f472b6&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=f0abfc"/> -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:ede9fe,50:e9d5ff,100:fbcfe8&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=6b21a8&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=a855f7"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ede9fe,50:e9d5ff,100:fbcfe8&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=6b21a8&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=a855f7"/> -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:c4b5fd,30:e9d5ff,60:ddd6fe,100:fbcfe8&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=fff"/>
 
 </div>
 
