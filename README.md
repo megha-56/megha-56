@@ -108,8 +108,9 @@ const megha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=megha-56&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-56&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=megha-56&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-56&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/> -->
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc69fea3b22db23/bottom_wave.svg" width="100%">
 
 </div>
 
