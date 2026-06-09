@@ -1,20 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Megha%20Panthi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20in%20the%20Making&descAlignY=55&descSize=16"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17,18,19,20&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=e879f9"/>
 
 </div>
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A855F7&center=true&vCenter=true&random=false&width=600&lines=Building+with+React+%26+Next.js+%E2%9A%A1;Crafting+backends+with+Node+%26+MongoDB+%F0%9F%94%A5;Turning+ideas+into+real+products+%F0%9F%9A%80;One+commit+at+a+time...+%F0%9F%92%AB)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=20&pause=1200&color=E879F9&center=true&vCenter=true&random=false&width=650&lines=Building+with+React+%26+Next.js+%E2%9C%A8;Crafting+backends+with+Node+%26+MongoDB+%F0%9F%8C%BF;Turning+ideas+into+real+products+%F0%9F%9A%80;One+commit+at+a+time...+%F0%9F%92%AB;Open+to+internships+%26+collabs+%F0%9F%8C%B8)](https://git.io/typing-svg)
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ---
 
-<img align="right" alt="coding" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" alt="coding gif" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 👩‍💻 About Me
+### 🌸 About Me
 
 ```javascript
 const megha = {
@@ -55,7 +61,7 @@ const megha = {
 
 <div align="center">
 
-**Frontend**
+**✦ Frontend ✦**
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -67,24 +73,24 @@ const megha = {
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 
-**Backend**
+**✦ Backend ✦**
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
 
-**Database**
+**✦ Database ✦**
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Languages**
+**✦ Languages ✦**
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-**Tools & Deployment**
+**✦ Tools & Deployment ✦**
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -102,14 +108,14 @@ const megha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=megha-56&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-56&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=megha-56&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-56&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/>
 
 </div>
 
 <div align="center">
 
-![](https://streak-stats.demolab.com/?user=megha-56&theme=tokyonight&hide_border=true&timezone=Asia/Kolkata)
+![](https://streak-stats.demolab.com/?user=megha-56&theme=midnight-purple&hide_border=true&timezone=Asia/Kolkata&ring=e879f9&fire=f0abfc&currStreakLabel=e879f9)
 
 </div>
 
@@ -119,7 +125,7 @@ const megha = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=megha-56&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+![](https://github-profile-trophy.vercel.app/?username=megha-56&theme=dracula&no-frame=true&no-bg=true&margin-w=6&row=1)
 
 </div>
 
@@ -129,7 +135,7 @@ const megha = {
 
 <div align="center">
 
-[![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megha-56&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megha-56&theme=dracula&hide_border=true&color=e879f9&line=c084fc&point=f0abfc)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -137,11 +143,16 @@ const megha = {
 
 <div align="center">
 
-[![](https://komarev.com/ghpvc/?username=megha-56&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/megha-56)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-**⭐ Star my repos if you find them useful!**
+[![](https://komarev.com/ghpvc/?username=megha-56&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/megha-56)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+**✨ Thanks for visiting — don't forget to ⭐ if you like my work! ✨**
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17,18,19,20&height=120&section=footer&animation=fadeIn"/>
 
 </div>
+
+
+
 
