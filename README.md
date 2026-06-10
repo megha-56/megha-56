@@ -153,9 +153,11 @@ const megha = {
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"> -->
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,50:e9d5ff,100:fbcfe8&height=4&section=header"/>
 
+<div classname="pt-10px">
 [![](https://komarev.com/ghpvc/?username=megha-56&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/megha-56)
 
 **✨ Thanks for visiting — don't forget to ⭐ if you like my work! ✨**
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17,18,19,20&height=120&section=footer&animation=fadeIn"/>
 
