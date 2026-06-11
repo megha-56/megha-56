@@ -138,7 +138,7 @@ const megha = {
 
 <div align="center">
 
-[![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megha-56&bg_color=fdf4ff&color=c026d3&line=f0abfc&point=fdb7d4&area=true&area_color=fbcfe8&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megha-56&theme=dracula&hide_border=true&color=e879f9&line=f9a8d4&point=fdb7d4)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
