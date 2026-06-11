@@ -1,8 +1,6 @@
 <div align="center">
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=19,20&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=e879f9"/> -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:4a0080,50:9b4dca,100:f472b6&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=f0abfc"/> -->
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:ede9fe,50:e9d5ff,100:fbcfe8&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=6b21a8&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=a855f7"/> -->
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:c4b5fd,30:e9d5ff,60:ddd6fe,100:fbcfe8&height=220&section=header&text=Megha%20Panthi&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=58&descSize=15&descColor=fff"/>
 
 </div>
@@ -16,14 +14,12 @@
 <br/>
 
 <div align="center">
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"> -->
-  <!-- <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="700"> -->
+
   <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,50:e9d5ff,100:fbcfe8&height=4&section=header"/>
 </div>
 
 ---
 
-<!-- <img align="right" alt="coding gif" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/> -->
 <img align="right" alt="Megha Panthi" width="280" src="./photo-removebg-preview.png" style="border-radius: 50%"/>
 
 ### 🌸 About Me
@@ -114,8 +110,7 @@ const megha = {
 
 <div align="center">
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=megha-56&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-56&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="165"/> -->
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc69fea3b22db23/bottom_wave.svg" width="100%">
 
 </div>
@@ -150,7 +145,7 @@ const megha = {
 
 <div align="center">
 
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"> -->
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,50:e9d5ff,100:fbcfe8&height=4&section=header"/>
 
 
