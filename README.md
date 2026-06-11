@@ -154,12 +154,21 @@ const megha = {
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:ede9fe,50:e9d5ff,100:fbcfe8&height=4&section=header"/>
 
 
+
+<br/><br/>
+
 [![](https://komarev.com/ghpvc/?username=megha-56&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/megha-56)
+
+<br/>
 
 **✨ Thanks for visiting — don't forget to ⭐ if you like my work! ✨**
 
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17,18,19,20&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:c4b5fd,30:e9d5ff,60:ddd6fe,100:fbcfe8&height=120&section=footer&animation=fadeIn"/>
+
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17,18,19,20&height=120&section=footer&animation=fadeIn"/> -->
 
 </div>
 
