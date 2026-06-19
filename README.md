@@ -109,18 +109,6 @@ const megha = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-
-<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc69fea3b22db23/bottom_wave.svg" width="100%"> -->
-
-</div>
-
-<div align="center">
-
-![](https://streak-stats.demolab.com/?user=megha-56&theme=midnight-purple&hide_border=true&timezone=Asia/Kolkata&ring=e879f9&fire=f0abfc&currStreakLabel=e879f9)
-
-</div>
 
 ---
 
