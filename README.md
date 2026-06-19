@@ -38,7 +38,7 @@ const megha = {
 <br/>
 
 - 🔭 Currently building **full-stack web apps**
-- 🌱 Learning **System Design & DSA*
+- 🌱 Learning **System Design & DSA**
 - 💬 Ask me about **React, Node.js, MongoDB**
 - 📫 Reach me at **meghapanthi435@gmail.com**
 - ⚡ Fun fact: **I debug with console.log and I'm proud of it**
