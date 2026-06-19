@@ -117,9 +117,9 @@ const megha = {
 </div>
 
 <div align="center">
-
+/*
 ![](https://streak-stats.demolab.com/?user=megha-56&theme=midnight-purple&hide_border=true&timezone=Asia/Kolkata&ring=e879f9&fire=f0abfc&currStreakLabel=e879f9)
-
+*/
 </div>
 
 ---
