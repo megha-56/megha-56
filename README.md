@@ -136,11 +136,7 @@ const megha = {
 
 ## 📈 Contribution Graph
 
-<div align="center">
 
-[![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megha-56&theme=dracula&hide_border=true&color=e879f9&line=f9a8d4&point=fdb7d4)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
