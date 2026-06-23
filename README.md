@@ -21,8 +21,7 @@
 
 ---
 
-<img align="right" alt="Megha Panthi" width="280" src="./ghibli-removebg-preview.png
-" style="border-radius: 50%"/>
+<img align="right" alt="Megha Panthi" width="280" src="./ghibli-removebg-preview.png" style="border-radius: 50%"/>
 
 ### 🌸 About Me
 
