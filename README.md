@@ -164,9 +164,6 @@ const megha = {
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e9d5ff,30:f5d0fe,60:fbcfe8,100:fdb7d4&height=120&section=footer&animation=fadeIn"/>
 
-
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17,18,19,20&height=120&section=footer&animation=fadeIn"/> -->
-
 </div>
 
 
