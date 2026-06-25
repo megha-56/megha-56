@@ -161,7 +161,7 @@ const megha = {
 
 <br/><br/>
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=venom&color=0:c4b5fd,30:e9d5ff,60:ddd6fe,100:fbcfe8&height=120&section=footer&animation=fadeIn"/> -->
+
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e9d5ff,30:f5d0fe,60:fbcfe8,100:fdb7d4&height=120&section=footer&animation=fadeIn"/>
 
 
