@@ -112,7 +112,7 @@ const megha = {
 <div align="center">
 
 
-<!-- <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc69fea3b22db23/bottom_wave.svg" width="100%"> -->
+
 </div>
 
 <div align="center">
