@@ -26,14 +26,7 @@
 ### 🌸 About Me
 
 ```javascript
-const megha = {
-  role     : "Full-Stack Developer",
-  learning : ["System Design", "DSA", "TypeScript"],
-  stack    : ["React", "Next.js", "Node.js", "MongoDB"],
-  goal     : "Build products that matter 🚀",
-  status   : "Open to internships & collabs ✨"
-};
-```
+
 
 <br/>
 
