@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e9d5ff,30:f5d0fe,60:fbcfe8,100:fdb7d4&height=260&section=header&text=Megha%20Panthi&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=62&descSize=18&descColor=fff"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:e9d5ff,30:f5d0fe,60:fbcfe8,100:fdb7d4&height=260&section=header&text=Megha%20Panthi&fontSize=58&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=✦%20Full-Stack%20Developer%20in%20the%20Making%20✦&descAlignY=62&descSize=18&descColor=fff"/>
 
 </div>
 
@@ -22,9 +22,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e9d5ff,30:f5d0fe,60:fbcfe8,100:fdb7d4&height=80&section=header&reversal=false"/>
 </div>
 
-<img align="right" alt="Megha Panthi" width="260" src="./ghibli-removebg-preview.png"/>
+<img align="right" alt="Megha Panthi" width="300" src="./ghibli-removebg-preview.png"/>
 
-### 🌸 &nbsp;About Me
+#### 🌸 &nbsp;About Me
 
 ```javascript
 const megha = {
