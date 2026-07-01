@@ -12,7 +12,15 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:e9d5ff,50:f5d0fe,100:fdb7d4&height=4&section=header"/>
+</div>
+
 ---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e9d5ff,30:f5d0fe,60:fbcfe8,100:fdb7d4&height=80&section=header&reversal=false"/>
+</div>
 
 <img align="right" alt="Megha Panthi" width="260" src="./ghibli-removebg-preview.png"/>
 
