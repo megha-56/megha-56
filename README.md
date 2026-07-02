@@ -120,9 +120,9 @@ const megha = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=megha-56&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=e879f9&title_color=e879f9&text_color=f0abfc&bg_color=0d0d0d" height="170"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=megha-56&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=e879f9&title_color=e879f9&text_color=f0abfc&bg_color=0d0d0d" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-56&layout=compact&theme=midnight-purple&hide_border=true&title_color=e879f9&text_color=f0abfc&bg_color=0d0d0d" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=megha-56&layout=compact&theme=midnight-purple&hide_border=true&title_color=e879f9&text_color=f0abfc&bg_color=0d0d0d" height="170"/> -->
 
 </div>
 
