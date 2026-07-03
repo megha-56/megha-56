@@ -24,7 +24,7 @@
 
 <img align="right" alt="Megha Panthi" width="300" src="./ghibli-removebg-preview.png"/>
 
-#### 🌸 &nbsp;About Me
+#### 🎀 &nbsp;About Me
 
 ```javascript
 const megha = {
