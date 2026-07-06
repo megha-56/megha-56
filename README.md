@@ -120,7 +120,15 @@ const megha = {
 
 <div align="center">
 
+![Megha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=megha-56&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=megha-56&layout=compact&theme=midnight-purple&hide_border=true)
+
 </div>
+
+---
+
+## 🔥 &nbsp;GitHub Streak
 
 <div align="center">
 
@@ -140,16 +148,6 @@ const megha = {
 
 ---
 
-## 📈 &nbsp;Contribution Graph
-
-<div align="center">
-
-[![Megha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=megha-56&theme=dracula&hide_border=true&color=e879f9&line=f9a8d4&point=fdb7d4&area=true&area_color=e9d5ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 [![](https://komarev.com/ghpvc/?username=megha-56&color=c084fc&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/megha-56)
@@ -163,4 +161,3 @@ const megha = {
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:e9d5ff,30:f5d0fe,60:fbcfe8,100:fdb7d4&height=140&section=footer&animation=fadeIn"/>
 
 </div>
-
