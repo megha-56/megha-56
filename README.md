@@ -132,7 +132,7 @@ const megha = {
 
 <div align="center">
 
-![](https://streak-stats.demolab.com/?user=megha-56&theme=midnight-purple&hide_border=true&timezone=Asia/Kolkata&ring=e879f9&fire=f0abfc&currStreakLabel=e879f9&background=0d0d0d)
+![](https://github-readme-streak-stats-eight.vercel.app?user=megha-56&theme=midnight-purple&hide_border=true&timezone=Asia%2FKolkata&ring=e879f9&fire=f0abfc&currStreakLabel=e879f9&background=0d0d0d)
 
 </div>
 
