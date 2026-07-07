@@ -116,15 +116,6 @@ const megha = {
 
 ---
 
-## 📊 &nbsp;GitHub Stats
-
-<div align="center">
-
-![Megha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=megha-56&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=megha-56&layout=compact&theme=midnight-purple&hide_border=true)
-
-</div>
 
 ---
 
